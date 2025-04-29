@@ -1,4 +1,4 @@
-ii<html>
+<html>
 <body>
 	teste
 	teste novo
@@ -6,5 +6,7 @@ ii<html>
 	tag
 Alterando o arquivo para fazer o merge
 Alterando arquivo na branch-A
+aaaAgora commitando na branch B - vai gerar conflitos e preciso resolver
+>>>>>>> branch-B
 </body>
 </html>
