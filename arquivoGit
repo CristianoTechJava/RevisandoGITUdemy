@@ -5,6 +5,6 @@ i<html>
 	Teste - Criando uma tag
 	tag
 Alterando o arquivo para fazer o merge
-
+aaaAgora commitando na branch B - vai gerar conflitos e preciso resolver
 </body>
 </html>
