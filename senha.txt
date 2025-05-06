@@ -1,1 +1,1 @@
-Validação de senha forte implementada
+Vamos realizar nossa primeira release v1.3.0
